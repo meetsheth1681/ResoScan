@@ -1,5 +1,5 @@
 # ResoScan
-## Used to filtered top resume among hundreds of resume.
+## Used ResoScan to filtered out top candidates among hundreds of candidate using their resumes.
 
 1. Frist of all We do vactorization so we can do NLP (Natural Language Processing) process
 2. Here we implement open-source software library "spaCy"
